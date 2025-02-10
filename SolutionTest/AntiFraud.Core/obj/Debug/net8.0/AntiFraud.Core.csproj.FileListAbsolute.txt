@@ -1,0 +1,11 @@
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\bin\Debug\net8.0\AntiFraud.Core.deps.json
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\bin\Debug\net8.0\AntiFraud.Core.dll
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\bin\Debug\net8.0\AntiFraud.Core.pdb
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\AntiFraud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\AntiFraud.Core.AssemblyInfoInputs.cache
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\AntiFraud.Core.AssemblyInfo.cs
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\AntiFraud.Core.csproj.CoreCompileInputs.cache
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\AntiFraud.Core.dll
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\refint\AntiFraud.Core.dll
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\AntiFraud.Core.pdb
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Core\obj\Debug\net8.0\ref\AntiFraud.Core.dll

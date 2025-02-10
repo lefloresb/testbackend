@@ -1,0 +1,17 @@
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Infrastructure.deps.json
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Infrastructure.runtimeconfig.json
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Infrastructure.dll
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Infrastructure.pdb
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Core.dll
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Core.pdb
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.AssemblyInfo.cs
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.csproj.CopyComplete
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.dll
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\refint\AntiFraud.Infrastructure.dll
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.pdb
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.genruntimeconfig.cache
+C:\Users\lfloresb\Desktop\Lucho\lucho\work\challenge-BE-LT\Test\SolutionTest\AntiFraud.Infrastructure\obj\Debug\net8.0\ref\AntiFraud.Infrastructure.dll

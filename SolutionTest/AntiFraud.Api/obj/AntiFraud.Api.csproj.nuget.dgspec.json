@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Api\\AntiFraud.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Api\\AntiFraud.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Api\\AntiFraud.Api.csproj",
+        "projectName": "AntiFraud.Api",
+        "projectPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Api\\AntiFraud.Api.csproj",
+        "packagesPath": "C:\\Users\\lfloresb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lfloresb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/bsolbo/_packaging/bsol-libraries/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\AntiFraud.Core.csproj": {
+                "projectPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\AntiFraud.Core.csproj"
+              },
+              "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.ApiEndpoints": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FastEndpoints": {
+              "target": "Package",
+              "version": "[5.34.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\AntiFraud.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\AntiFraud.Core.csproj",
+        "projectName": "AntiFraud.Core",
+        "projectPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\AntiFraud.Core.csproj",
+        "packagesPath": "C:\\Users\\lfloresb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lfloresb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/bsolbo/_packaging/bsol-libraries/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj",
+        "projectName": "AntiFraud.Infrastructure",
+        "projectPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lfloresb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lfloresb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/bsolbo/_packaging/bsol-libraries/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\AntiFraud.Core.csproj": {
+                "projectPath": "C:\\Users\\lfloresb\\Desktop\\Lucho\\lucho\\work\\challenge-BE-LT\\Test\\SolutionTest\\AntiFraud.Core\\AntiFraud.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
